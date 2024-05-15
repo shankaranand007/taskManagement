@@ -4,14 +4,14 @@ which is running on node version 21 LTS
 
 
 Angular Folder -- 
-      step1 : 
-          npm install
-          ng serve
-          it will running on 4200 port
+      steps : 
+          1.npm install
+          2.ng serve
+          3.it will running on 4200 port
 
 Node Folder ---
-        npm install
-        npm start
+        1.npm install
+        2.npm start
 
   Notes:-
       - First login with default username - password 
